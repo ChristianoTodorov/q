@@ -31,6 +31,7 @@ public class Main {
 				encoded += " ";
 			}
 		}
-		System.out.println("Vaše zašifrovaná zpráva : \n"+encoded);xd.close();
+		System.out.println("Vaše zašifrovaná zpráva : \n"+encoded);
+		xd.close();
 	}
 }
